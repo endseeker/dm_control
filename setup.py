@@ -203,7 +203,7 @@ notebook: [Open In Google Colab](https://colab.research.google.com/github/deepmi
         'lxml',
         'mujoco >= 2.2.0',
         'numpy >= 1.9.0',
-        'protobuf >= 3.20.1',
+        'protobuf == 3.20.0',
         'pyopengl >= 3.1.4',
         'pyparsing < 3.0.0',
         'requests',
